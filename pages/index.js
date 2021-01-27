@@ -22,23 +22,15 @@ export default function Home() {
       <QuizContainer>
         <Widget>
           <Widget.Header>
-            <h1>Titulo 1</h1>
+            <h1>VOA SÍNTESEEEE</h1>
           </Widget.Header>
           <Widget.Content>
-            <p>Conteúdo 1</p>
-          </Widget.Content>
-        </Widget>
-        <Widget>
-          <Widget.Header>
-            <h1>Titulo 2</h1>
-          </Widget.Header>
-          <Widget.Content>
-            <p>Conteúdo 2</p>
+            <img src="https://i.imgur.com/MVOaIa2.png" width="100" height="100"></img>
           </Widget.Content>
         </Widget>
       </QuizContainer>
       <Footer></Footer>
-      <GithubCorner projectUrl="https://github.com/EduardoPazz"></GithubCorner>
+      <GithubCorner projectUrl="https://github.com/EduardoPazz/javaquiz"></GithubCorner>
     </QuizBackground>
   )
 }
