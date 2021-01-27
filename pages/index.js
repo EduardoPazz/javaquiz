@@ -36,8 +36,8 @@ export default function Home() {
             <p>Conteúdo 2</p>
           </Widget.Content>
         </Widget>
-        <Footer></Footer>
       </QuizContainer>
+      <Footer></Footer>
       <GithubCorner projectUrl="https://github.com/EduardoPazz"></GithubCorner>
     </QuizBackground>
   )
